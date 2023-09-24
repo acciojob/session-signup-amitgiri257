@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+form{
+	background:#f8f9fa;
+	border:1px solid #ccc;
+	border-radius :4px;
+    padding :2rem;
+	width :300px;
+}
+label{
+	margin-bottom:.5rem;
+	font-sixe:1.2rem;
+	font-weight:bold;
+}
+
+input{
+	width:100%;
+	border:1px solid #ccc;
+	padding:.5rem;
+	border-radius:4px;
+	margin-bottom:4px;
+	
+}
+button{
+	background:#007bff;
+	color:white;
+	padding.75rem 1.5rem;
+	border-radius:4px;
+}
+
