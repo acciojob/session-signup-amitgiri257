@@ -3,7 +3,7 @@ var name1 = document.getElementById("name").value;
 var email = document.getElementById("email").value;
 var password = document.getElementById("password").value;
 var confirmPass = document.getElementById("confirm-password").value;
-var btn = document.getElementById("btn);
+var btn = document.getElementById("submit");
 
 btn.addEventListener("click",function(){
 	if(password===confirmPass){
