@@ -12,5 +12,5 @@ btn.addEventListener("click",function(){
 	}
 	else{
 		alert("Passwords do not match");
-	}
+	}}
 })

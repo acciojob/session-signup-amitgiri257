@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
+
+.form{
+	background-color:#F8F9FA;
+}
 form{
-	background-color:rgb(248, 249, 250);
+	background-color:#F8F9FA;
 	border:1px solid #ccc;
 	border-radius :4px;
     padding :2rem;
